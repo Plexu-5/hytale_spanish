@@ -1,0 +1,34 @@
+earSide = Lado de la oreja
+earSide.left = Izquierda
+earSide.right = Derecha
+earSide.both = Ambas
+
+pattern.skull = Patrón de Calavera
+pattern.star = Patrón de Estrella
+pattern.gaia = Patrón de Árbol Prismático
+pattern.cat = Patrón de Gato
+pattern.bunny = Patrón de Conejo
+pattern.unicorn = Patrón de Unicornio
+pattern.cat = Patrón de Gato
+pattern.play = Patrón de Botón de Reproducir
+pattern.play_inverted = Patrón de Botón de Reproducir Invertido
+
+pants.dungareesshorts = Pantalones Cortos con Tirantes
+pants.bracedshorts = Pantalones Cortos Sujetos
+pants.dungarees = Peto
+pants.bracedpants = Pantalones con Tirantes
+
+default = Predeterminado
+
+overtops.Scavenger_Poncho = Sin Calavera
+
+capes.no_neck = Sin Cuello
+
+haircuts.Dreadlocks01.name = Rastas 1
+haircuts.Dreadlocks02.name = Rastas 2
+haircuts.Dreadlocks03.name = Rastas 3
+haircuts.SlickbackCowlick.name = [TMP] Copete Peinado Hacia Atrás
+
+headaccessory.Logo_Cap_Movie.name = Logo de Película
+headaccessory.Logo_Cap_Heart.name = Logo de Corazón
+headaccessory.Logo_Cap_Hypixel.name = Logo de Hypixel

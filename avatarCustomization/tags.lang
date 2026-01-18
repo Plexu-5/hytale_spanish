@@ -1,0 +1,15 @@
+style.fantasy = Fantasía
+style.modern = Moderno
+style.costume = Disfraz
+style.special = Especial
+
+haircut.short = Pelo Corto
+haircut.medium = Pelo Medio
+haircut.long = Pelo Largo
+HairLength.Short.name = Corto
+HairLength.Medium.name = Medio
+HairLength.Long.name = Largo
+Style.Fantasy.name = Fantasía
+Style.Modern.name = Moderno
+Style.Costume.name = Disfraz
+Style.Special.name = Especial
