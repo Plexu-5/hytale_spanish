@@ -1,5 +1,7 @@
 # === assetEditor ===
 
+TEST
+
 assetEditor.messages.unknownItem = Elemento desconocido "{id}"
 assetEditor.messages.unknownModel = Modelo desconocido "{id}"
 assetEditor.messages.failedToDecodeAsset = No se ha podido decodificar el recurso: {message}
