@@ -342,9 +342,9 @@ assetEditor.readOnlyAssetBar.message = Este recurso es de solo lectura y no se p
 assetEditor.readOnlyAssetBar.overrideButton = Anular activo
 assetEditor.readOnlyAssetBar.tooltip = Este activo no se puede editar porque el paquete de activos en el que se encuentra es de solo lectura.
 \n\
-Zipped asset packs cannot be edited, only directory based asset packs can be edited.\n\
+Los asset pack comprimidos no se pueden editar, solo se pueden editar los paquetes de recursos basados en directorios.\n\
 \n\
-You can override assets through a custom asset pack.
+Puedes anular los assets mediante un asset pack personalizado.
 
 assetEditor.inheritanceWarning.message = Advertencia: Este recurso tiene un elemento principal y la herencia aún no es compatible con el editor de propiedades.
 assetEditor.inheritanceWarning.tooltip = Este activo hereda propiedades de otro activo (especificado en la propiedad «Padre»).\n\n\
@@ -360,14 +360,14 @@ assetEditor.confirmationModal.typeToConfirm = Escriba «{value}» para confirmar
 assetEditor.deletePackModal.title = ¿Eliminar paquete de recursos?
 assetEditor.deletePackModal.text = ¿Está seguro de que desea eliminar el paquete de recursos «{packId}»?\n\
 \n\
-WARNING: This is a DANGEROUS operation!\n\
+AVISO: Esto es una operación peligrosa!\n\
 \n\
-• All assets within this pack will be permanently deleted\n\
-• Deleting an asset pack at runtime can lead to unexpected behavior, crashes, or data corruption\n\
-• Any references to assets in this pack from other packs will become broken\n\
-• This action cannot be undone\n\
+• Todos los assets dentro de este pack serán eliminados permanentemente\n\
+• Eliminar un asset pack durante la ejecución puede provocar un comportamiento inesperado, fallos o corrupción de datos.\n\
+• Cualquier referencia a los assets de este paquete desde otros paquetes dejará de funcionar.\n\
+• Esta acción no se puede deshacer\n\
 \n\
-Only proceed if you fully understand the consequences.
+Procede solo si comprende plenamente las consecuencias.
 assetEditor.deletePackModal.confirmButton = Eliminar paquete
 
 assetEditor.newAssetButton.readOnlyPackTooltip = No se pueden crear nuevos activos porque el paquete de activos seleccionado es de solo lectura.
