@@ -10,5 +10,5 @@ Archivos principales de traducción:
 - Server.lang = Aquí se almacenan todos los datos de los items, mobs...
 - Carpeta avatarCustomization = Aquí se encuentran todos los archivos .lang de la customización del avatar, todo está repartido con sus respectivos nombres
 
-DESCARGA E INSTRUCCIONES DE INSTALACIÓN:
+DESCARGA E INSTRUCCIONES DE INSTALACIÓN:<br>
 https://www.curseforge.com/hytale/mods/hytale-spanish-translation
