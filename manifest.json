@@ -1,0 +1,23 @@
+{
+  "Group": "Plexu5.hytale_esp",
+  "Name": "Spanish Tranlation [es-ES] (server-side)",
+  "Version": "1.3.0b",
+  "Description": "Complete UI Spanish Translation. For complete installation follow the instructions on our Curseforge mainpage.",
+  "Authors": [
+    {
+			"Name": "Plexu5",
+			"Email": "discord@trom3r",
+			"Url": "-"
+		},
+	  {
+			"Name": "AlvarZ4",
+			"Email": "discord@alvarz4",
+			"Url": "-"
+		}
+	],
+	"Website": "https://www.curseforge.com/hytale/mods/hytale-spanish-translation",
+	"ServerVersion": "*",
+	"Dependencies": {},
+	"OptionalDependencies": {},
+	"DisabledByDefault": false
+}
