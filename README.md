@@ -3,7 +3,7 @@ Una traducción al español de Hytale
 
 Carpetas:
 - install = Carpeta de instalación local (Instrucciones de instalación en el enlace de abajo.
-- Server = Carpeta de funcionamiento server-side y para mundos (requiere activación en cada mundo o instalar el mod en el servidor).
+- Server = Carpeta de funcionamiento server-side y para mundos (requiere activación en cada mundo o instalar el mod en la carpet ade mods del servidor).
 
 Archivos principales de traducción:
 - Client.lang = Principalmente para las interfaces
