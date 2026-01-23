@@ -1,4 +1,4 @@
-# hytale_spanish
+# Hytale Spanish Translation
 Una traducción al español de Hytale.
 
 📂 Carpetas:
@@ -11,6 +11,6 @@ Una traducción al español de Hytale.
 - Carpeta avatarCustomization = Aquí se encuentran todos los archivos .lang de la customización del avatar, todo está repartido con sus respectivos nombres
 
 
-### ⬇️ DESCARGA E INSTRUCCIONES DE INSTALACIÓN<br>
+## ⬇️ DESCARGA E INSTRUCCIONES DE INSTALACIÓN ⬇️<br>
 - Ejecutable: https://github.com/trom3r/hytale_spanish/releases<br>
 - Manual y server: https://www.curseforge.com/hytale/mods/hytale-spanish-translation
