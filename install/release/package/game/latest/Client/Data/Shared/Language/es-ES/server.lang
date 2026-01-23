@@ -5064,7 +5064,7 @@ items.Plant_Sapling_Birch.name = Árbol joven de abedul
 items.Plant_Sapling_Birch.description = [TMP] Crece hasta convertirse en un <color is="#ffffff">abedul</color>.\n• Produce <color is="#ffffff">madera clara</color>\n\nTiempo de crecimiento:\n• <color is="#4ade80">5</color> <color is="#ffffff">etapas</color>\n• <color is="#4ade80">2</color> <color is="#ffffff">días</color>
 items.Plant_Sapling_Cedar.name = Árbol joven de cedro
 items.Plant_Sapling_Cedar.description = [TMP] Crece hasta convertirse en un <color is="#ffffff">cedro</color>.\n• Produce <color is="#ffffff">madera oscura</color>\n\nTiempo de crecimiento:\n• <color is="#4ade80">5</color> <color is="#ffffff">etapas</color>\n• <color is="#4ade80">2</color> <color is="#ffffff">días</color>
-items.Plant_Sapling_Crystal.name = Árbol cristalino
+items.Plant_Sapling_Crystal.name = Árbol de cristal
 items.Plant_Sapling_Crystal.description = [TMP] Crece hasta convertirse en un <color is="#ffffff">Árbol de cristal</color>.\n• Produce <color is="#ffffff">Madera</color>\n\nTiempo de crecimiento:\n• <color is="#4ade80">5</color> <color is="#ffffff">etapas</color>\n• <color is="#4ade80">2</color> <color is="#ffffff">días</color>
 items.Plant_Sapling_Dry.name = Árbol joven seco
 items.Plant_Sapling_Dry.description = [TMP] Crece hasta convertirse en un <color is="#ffffff">árbol seco</color>.\n• Produce <color is="#ffffff">madera seca</color>\n\nTiempo de crecimiento:\n• <color is="#4ade80">5</color> <color is="#ffffff">etapas</color>\n• <color is="#4ade80">2</color> <color is="#ffffff">días</color>
@@ -6457,12 +6457,12 @@ items.Wood_Cedar_Branch_Short.name = Rama de cedro - Corta
 items.Wood_Cedar_Roots.name = Raíces de cedro
 items.Wood_Cedar_Trunk.name = Tronco de cedro
 items.Wood_Cedar_Trunk_Full.name = Tronco de cedro
-items.Wood_Crystal_Branch_Corner.name = Rama Crystalwood - Esquina
-items.Wood_Crystal_Branch_Long.name = Rama Crystalwood - Long
-items.Wood_Crystal_Branch_Short.name = Rama de Crystalwood - Corto
-items.Wood_Crystal_Roots.name = Raíces de Crystalwood
-items.Wood_Crystal_Trunk.name = Tronco de madera cristalina
-items.Wood_Crystal_Trunk_Full.name = Tronco de árbol Crystalwood
+items.Wood_Crystal_Branch_Corner.name = Rama de árbol de cristal - Esquina
+items.Wood_Crystal_Branch_Long.name = Rama de árbol de cristal - Long
+items.Wood_Crystal_Branch_Short.name = Rama de árbol de cristal - Corto
+items.Wood_Crystal_Roots.name = Raíces de árbol de cristal
+items.Wood_Crystal_Trunk.name = Tronco de árbol de cristal
+items.Wood_Crystal_Trunk_Full.name = Tronco de árbol de cristal
 items.Wood_Darkwood_Beam.name = Viga de madera oscura
 items.Wood_Darkwood_Decorative.name = Tablones de madera oscura - Decorativos
 items.Wood_Darkwood_Fence.name = Valla de madera oscura
