@@ -3603,7 +3603,7 @@ itemSets.Wood_Deadwood_Planks = Bloques de madera muerta
 itemSets.Wood_Drywood_Planks = Bloques de madera seca
 itemSets.Wood_Goldenwood_Planks = Bloques madera dorada
 itemSets.Wood_Greenwood_Planks = Bloques madera verde
-itemSets.Wood_Hardwood_Planks = Bloques de madera dura
+itemSets.Wood_Hardwood_Planks = Bloques de madera resistente
 itemSets.Wood_Lightwood_Planks = Bloques de madera clara
 itemSets.Wood_Redwood_Planks = Bloques de secuoya
 itemSets.Wood_Softwood_Planks = Bloques de madera blanda
@@ -5055,9 +5055,9 @@ items.Plant_Roots_Cave.name = Raíces colgantes de la cueva
 items.Plant_Roots_Cave_Small.name = Raíces de la cueva
 items.Plant_Roots_Leafy.name = Raíces de la cueva frondosa
 items.Plant_Sapling_Ash.name = Árbol joven de fresno
-items.Plant_Sapling_Ash.description = [TMP] Crece hasta convertirse en un <color is="#ffffff">fresno</color>.\n• Produce <color is="#ffffff">madera dura</color>\n\nTiempo de crecimiento:\n• <color is="#4ade80">5</color> <color is="#ffffff">etapas</color>\n• <color is="#4ade80">2</color> <color is="#ffffff">días</color>
+items.Plant_Sapling_Ash.description = [TMP] Crece hasta convertirse en un <color is="#ffffff">fresno</color>.\n• Produce <color is="#ffffff">madera resistente</color>\n\nTiempo de crecimiento:\n• <color is="#4ade80">5</color> <color is="#ffffff">etapas</color>\n• <color is="#4ade80">2</color> <color is="#ffffff">días</color>
 items.Plant_Sapling_Apple.name = Arbolito de manzano
-items.Plant_Sapling_Apple.description = [TMP] Crece hasta convertirse en un <color is="#ffffff">manzano</color>.\n• Produce <color is="#ffffff">madera dura</color>\n• Da <color is="#4ade80">8</color> <color is="#ffffff">manzanas</color>\n• Las manzanas vuelven a crecer cada <color is="#4ade80">12</color> <color is="#ffffff">horas</color>\n\nTiempo de crecimiento:\n• <color is="#4ade80">5</color> <color is="#ffffff">etapas</color>\n• <color is="#4ade80">5</color> <color is="#ffffff">días</color>
+items.Plant_Sapling_Apple.description = [TMP] Crece hasta convertirse en un <color is="#ffffff">manzano</color>.\n• Produce <color is="#ffffff">madera resistente</color>\n• Da <color is="#4ade80">8</color> <color is="#ffffff">manzanas</color>\n• Las manzanas vuelven a crecer cada <color is="#4ade80">12</color> <color is="#ffffff">horas</color>\n\nTiempo de crecimiento:\n• <color is="#4ade80">5</color> <color is="#ffffff">etapas</color>\n• <color is="#4ade80">5</color> <color is="#ffffff">días</color>
 items.Plant_Sapling_Beech.name = Arbolito de haya
 items.Plant_Sapling_Beech.description = [TMP] Crece hasta convertirse en un <color is="#ffffff">haya</color>.\n• Produce <color is="#ffffff">madera blanda</color>\n\nTiempo de crecimiento:\n• <color is="#4ade80">5</color> <color is="#ffffff">etapas</color>\n• <color is="#4ade80">2</color> <color is="#ffffff">días</color>
 items.Plant_Sapling_Birch.name = Árbol joven de abedul
@@ -5069,7 +5069,7 @@ items.Plant_Sapling_Crystal.description = [TMP] Crece hasta convertirse en un <c
 items.Plant_Sapling_Dry.name = Árbol joven seco
 items.Plant_Sapling_Dry.description = [TMP] Crece hasta convertirse en un <color is="#ffffff">árbol seco</color>.\n• Produce <color is="#ffffff">madera seca</color>\n\nTiempo de crecimiento:\n• <color is="#4ade80">5</color> <color is="#ffffff">etapas</color>\n• <color is="#4ade80">2</color> <color is="#ffffff">días</color>
 items.Plant_Sapling_Oak.name = Arbolito de roble
-items.Plant_Sapling_Oak.description = [TMP] Crece hasta convertirse en un <color is="#ffffff">roble</color>.\n• Produce <color is="#ffffff">madera dura</color>\n\nTiempo de crecimiento:\n• <color is="#4ade80">7</color> <color is="#ffffff">etapas</color>\n• <color is="#4ade80">3</color> <color is="#ffffff">días</color>
+items.Plant_Sapling_Oak.description = [TMP] Crece hasta convertirse en un <color is="#ffffff">roble</color>.\n• Produce <color is="#ffffff">madera resistente</color>\n\nTiempo de crecimiento:\n• <color is="#4ade80">7</color> <color is="#ffffff">etapas</color>\n• <color is="#4ade80">3</color> <color is="#ffffff">días</color>
 items.Plant_Sapling_Palm.name = Palmera joven
 items.Plant_Sapling_Palm.description = [TMP] Crece hasta convertirse en una <color is="#ffffff">palmera</color>.\n• Produce <color is="#ffffff">madera dorada</color>\n\nTiempo de crecimiento:\n• <color is="#4ade80">5</color> <color is="#ffffff">etapas</color>\n• <color is="#4ade80">2</color> <color is="#ffffff">días</color>
 items.Plant_Sapling_Poisoned.name = Árbol joven envenenado
@@ -5077,9 +5077,9 @@ items.Plant_Sapling_Poisoned.description = [TMP] Crece hasta convertirse en un <
 items.Plant_Sapling_Redwood.name = Árbol joven de secuoya
 items.Plant_Sapling_Redwood.description = [TMP] Crece hasta convertirse en un <color is="#ffffff">árbol de secuoya</color>.\n• Produce <color is="#ffffff">secoya</color>\n\nTiempo de crecimiento:\n• <color is="#4ade80">5</color> <color is="#ffffff">etapas</color>\n• <color is="#4ade80">2</color> <color is="#ffffff">días</color>
 items.Plant_Sapling_Spruce.name = Árbol joven de abeto
-items.Plant_Sapling_Spruce.description = [TMP] Crece hasta convertirse en un <color is="#ffffff">abeto</color>.\n• Produce <color is="#ffffff">madera dura</color>\n\nTiempo de crecimiento:\n• <color is="#4ade80">5</color> <color is="#ffffff">etapas</color>\n• <color is="#4ade80">2</color> <color is="#ffffff">días</color>
+items.Plant_Sapling_Spruce.description = [TMP] Crece hasta convertirse en un <color is="#ffffff">abeto</color>.\n• Produce <color is="#ffffff">madera resistente</color>\n\nTiempo de crecimiento:\n• <color is="#4ade80">5</color> <color is="#ffffff">etapas</color>\n• <color is="#4ade80">2</color> <color is="#ffffff">días</color>
 items.Plant_Sapling_Spruce_Frozen.name = Árbol joven de abeto congelado
-items.Plant_Sapling_Spruce_Frozen.description = [TMP] Crece hasta convertirse en un <color is="#ffffff">abeto congelado</color>.\n• Produce <color is="#ffffff">madera dura</color>\n\nTiempo de crecimiento:\n• <color is="#4ade80">5</color> <color is="#ffffff">etapas</color>\n• <color is="#4ade80">2</color> <color is="#ffffff">días</color>
+items.Plant_Sapling_Spruce_Frozen.description = [TMP] Crece hasta convertirse en un <color is="#ffffff">abeto congelado</color>.\n• Produce <color is="#ffffff">madera resistente</color>\n\nTiempo de crecimiento:\n• <color is="#4ade80">5</color> <color is="#ffffff">etapas</color>\n• <color is="#4ade80">2</color> <color is="#ffffff">días</color>
 items.Plant_Sapling_Windwillow.name = Árbol joven de arena
 items.Plant_Sapling_Windwillow.description = [TMP] Crece hasta convertirse en un <color is="#ffffff">árbol de arena</color>.\n• Produce <color is="#ffffff">Madera</color>\n\nTiempo de crecimiento:\n• <color is="#4ade80">5</color> <color is="#ffffff">Etapas</color>\n• <color is="#4ade80">2</color> <color is="#ffffff">Días</color>
 items.Plant_Seaweed_Arid_Red.name = Alga roja árida
@@ -6575,19 +6575,19 @@ items.Wood_Gumboab_Branch_Short.name = Rama de Gumboab - Corto
 items.Wood_Gumboab_Roots.name = Raíces de Gumboab
 items.Wood_Gumboab_Trunk.name = Gumboab Log
 items.Wood_Gumboab_Trunk_Full.name = Tronco de árbol gumboab
-items.Wood_Hardwood_Beam.name = Viga de madera dura
-items.Wood_Hardwood_Decorative.name = Tablas de madera noble - Decorativas
-items.Wood_Hardwood_Fence.name = Valla de madera dura
+items.Wood_Hardwood_Beam.name = Viga de madera resistente
+items.Wood_Hardwood_Decorative.name = Tablas de madera resistente - Decorativas
+items.Wood_Hardwood_Fence.name = Valla de madera resistente
 items.Wood_Hardwood_Fence_Gate.name = Puerta de madera maciza
-items.Wood_Hardwood_Ornate.name = Tablones de madera noble - Ornamentados
-items.Wood_Hardwood_Planks.name = Tablones de madera dura
-items.Wood_Hardwood_Planks_Half.name = Media tabla de madera dura
-items.Wood_Hardwood_Roof.name = Techo de madera dura
-items.Wood_Hardwood_Roof_Flat.name = Techo de madera dura - Plano
-items.Wood_Hardwood_Roof_Hollow.name = Techo de madera dura - Hueco
-items.Wood_Hardwood_Roof_Shallow.name = Techo de madera dura - Poco profundo
-items.Wood_Hardwood_Roof_Steep.name = Techo de madera dura - Inclinado
-items.Wood_Hardwood_Stairs.name = Escaleras de madera dura
+items.Wood_Hardwood_Ornate.name = Tablones de madera resistente - Ornamentados
+items.Wood_Hardwood_Planks.name = Tablones de madera resistente
+items.Wood_Hardwood_Planks_Half.name = Media tabla de madera resistente
+items.Wood_Hardwood_Roof.name = Techo de madera resistente
+items.Wood_Hardwood_Roof_Flat.name = Techo de madera resistente - Plano
+items.Wood_Hardwood_Roof_Hollow.name = Techo de madera resistente - Hueco
+items.Wood_Hardwood_Roof_Shallow.name = Techo de madera resistente - Poco profundo
+items.Wood_Hardwood_Roof_Steep.name = Techo de madera resistente - Inclinado
+items.Wood_Hardwood_Stairs.name = Escaleras de madera resistente
 items.Wood_Ice_Trunk.name = Tronco de hielo
 items.Wood_Jungle_Branch_Corner.name = Rama de la selva - Esquina
 items.Wood_Jungle_Branch_Long.name = Rama de la selva - Larga
