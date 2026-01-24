@@ -1211,6 +1211,10 @@ inventory.character.tooltip.disabledMemories = [TMP] Memories está desactivado 
 inventory.character.tooltip.disabledBackpack = [TMP] La mochila está desactivada en este contexto.
 inventory.character.tooltip.lockedMemories = Encuentra el Templo Olvidado para obtener más información.
 inventory.character.tooltip.pocketCraftingDisabled = [TMP] La función Pocket Crafting está desactivada en este contexto.
+inventory.character.tooltip.toggleHelmVisibility = [TMP] Alternar visibilidad del casco
+inventory.character.tooltip.toggleCuirassVisibility = [TMP] Alternar visibilidad de la pechera
+inventory.character.tooltip.toggleGauntletsVisibility = [TMP] Alternar visibilidad de los guanteletes
+inventory.character.tooltip.togglePantsVisibility = [TMP] Alternar visibilidad de los pantalones
 
 inventory.character.stats.mana = Maná
 inventory.character.stats.health = Salud
@@ -1903,6 +1907,7 @@ settings.hideChat = Ocultar chat
 settings.hideChat.description = Ocultar la ventana de chat (no impide recibir mensajes).
 settings.hideHeldItem = Ocultar objeto equipado
 settings.hideHeldItem.description = Oculta el objeto que tienes en la mano (vista en primera persona).
+settings.showFpsOverlay = Superposición de FPS
 settings.maxChatMessages = Mensajes máximos de chat
 settings.maxChatMessages.description = Determina el número máximo de mensajes que se mantendrán en la lista del chat.
 settings.cameraBasedFlying = Vuelo relativo a la cámara
@@ -2079,12 +2084,19 @@ settings.bindings.ToggleFlyCameraControlTarget.description = Cambia el objetivo 
 settings.bindings.PreviousBuilderToolsLegendPage = Leyenda - Página anterior
 settings.bindings.NextBuilderToolsLegendPage = Leyenda - Página siguiente
 
+settings.bindings.ContainerTakeAll = Contenedor: Coger todo
+settings.bindings.ContainerPutAll = Contenedor: Guardar todo
+settings.bindings.ContainerQuickStack = Contenedor: Autoapilar
+settings.bindings.ContainerSort = Contenedor: Ordenar objetos
+
 settings.autoJumpObstacle = Auto saltar
 settings.autoJumpObstacle.description = Con esta configuración activada, subirás automáticamente bloques con una altura máxima de 1 unidad.
 settings.enableUtilityQuickSwap = Habilitar cambio rápido de utilidades
 settings.enableUtilityQuickSwap.description = Cuando está activada, al presionar la tecla asignada se cambiará instantáneamente al siguiente elemento de la rueda de utilidades.
 settings.enableArachnophobiaMode = Habilitar modo aracnofobia
 settings.enableArachnophobiaMode.description = Cuando está activada, las arañas serán sustituidas por otro modelo (el predeterminado del servidor es un cangrejo).\n\n<b><color is="#b32626">¡Esta configuración requiere que vuelvas al menú principal para que surta efecto!</color></b>
+settings.enableOphidiophobiaMode = Habilitar modo ophidiophobia
+settings.enableOphidiophobiaMode.description = Cuando está activada, las serpientes serán sustituidas por otro modelo (el predeterminado es un gusano).\n\n<b><color is="#b32626">¡Esta configuración requiere que vuelvas al menú principal para que surta efecto!</color></b>
 settings.autoJumpGap = Saltar automáticamente por encima de los huecos
 settings.builderMode = Modo Constructor
 settings.builderMode.tooltip = Cuando se activa Y se encuentra en modo Creativo, deshabilita algunas funciones (por ejemplo, efectos de caída, movimiento de cabeza, etc.).
@@ -2260,3 +2272,98 @@ feedback.success.submitMore = Enviar más
 
 
 bugReportButton.tooltip = Informar de un error o enviar comentarios
+
+# === patchline ===
+# Patchlines allow early release of content to help players test new features
+
+patchline.launchNotification.title = Línea de parches de prelanzamiento
+patchline.launchNotification.text = Estás ejecutando una línea de parches de prelanzamiento de Hytale.\n\n\
+    Esta versión puede contener características experimentales y errores.\n\n\
+    ¡Tu feedback nos ayuda a mejorar el juego!
+
+patchline.worldWarning.title = Advertencia de línea de parches
+patchline.worldWarning.text = Estás a punto de abrir un mundo usando una línea de parches diferente.\n\n\
+    Abrir este mundo puede introducir cambios que afecten tu guardado.\n\n\
+    Recomendamos crear una copia de respaldo antes de continuar.
+patchline.worldWarning.openAnyway = Abrir de todos modos
+patchline.worldWarning.duplicateWorld = Duplicar mundo
+
+# === cosmetics ===
+cosmetics.color.skinTone = Tono
+
+# Hair Gradients
+cosmetics.color.PitchBlack = Negro azabache
+cosmetics.color.Black = Negro
+cosmetics.color.BrownDarker = Marrón más oscuro
+cosmetics.color.BrownDark = Marrón oscuro
+cosmetics.color.BrownSemiDark = Marrón semi-oscuro
+cosmetics.color.Brown = Marrón
+cosmetics.color.BrownSemiLight = Marrón semi-claro
+cosmetics.color.BrownLight = Marrón claro
+cosmetics.color.Blond = Rubio
+cosmetics.color.BlondPlatinum = Rubio platino
+cosmetics.color.BlondSand = Rubio arena
+cosmetics.color.BlondCaramel = Rubio caramelo
+cosmetics.color.Copper = Cobre
+cosmetics.color.Red = Rojo
+cosmetics.color.RedDark = Rojo oscuro
+cosmetics.color.Pink = Rosa
+cosmetics.color.PinkBerry = Rosa baya
+cosmetics.color.Bubblegum = Chicle
+cosmetics.color.Purple = Púrpura
+cosmetics.color.Lavender = Lavanda
+cosmetics.color.BlueDark = Azul oscuro
+cosmetics.color.Blue = Azul
+cosmetics.color.BlueLight = Azul claro
+cosmetics.color.Turquoise = Turquesa
+cosmetics.color.Green = Verde
+cosmetics.color.White = Blanco
+cosmetics.color.GreyAsh = Gris ceniza
+cosmetics.color.Grey = Gris
+cosmetics.color.GreyPurple = Gris púrpura
+cosmetics.color.Blue_Anthracite = Azul antracita
+
+# Shiny_Fabric Gradients
+cosmetics.color.Lime = Lima
+cosmetics.color.Orange = Naranja
+cosmetics.color.Yellow = Amarillo
+cosmetics.color.Violet = Violeta
+
+# Jean_Generic Gradients
+cosmetics.color.BluePastel = Azul pastel
+cosmetics.color.GreyDark = Gris oscuro
+cosmetics.color.GreyLight = Gris claro
+cosmetics.color.GreyBlue = Gris azul
+cosmetics.color.Marine_Blue = Azul marino
+cosmetics.color.Maroon = Granate
+cosmetics.color.Blue_Night = Azul noche
+cosmetics.color.Turquoise_Dark = Turquesa oscura
+
+# Faded_Leather Gradients
+cosmetics.color.Orange_Tan = Naranja bronceado
+
+# Flashy_Synthetic Gradients
+cosmetics.color.OrangePastel = Naranja pastel
+cosmetics.color.PinkPastel = Rosa pastel
+
+# Colored_Cotton Gradients
+cosmetics.color.Cream = Crema
+cosmetics.color.Charcoal = Carbón
+
+# Pastel_Cotton Gradients
+cosmetics.color.Carmin = Carmín
+cosmetics.color.PurplePastel = Púrpura pastel
+
+# Fantasy_Cotton Gradients
+cosmetics.color.Beige = Beige
+
+# Eyes Gradients
+cosmetics.color.Honey = Miel
+cosmetics.color.GreenLight = Verde claro
+
+# Ornamented_Metal Gradients
+cosmetics.color.Gold_Red = Oro
+cosmetics.color.Silver_Blue = Plata
+cosmetics.color.Copper_Green = Cobre
+cosmetics.color.Brass_Purple = Latón
+cosmetics.color.Iron_Black = Hierro
