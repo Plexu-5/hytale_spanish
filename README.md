@@ -1,4 +1,4 @@
-# Hytale Spanish Translation
+# Hytale Spanish Translation 🇪🇸
 Una traducción al español de Hytale.
 
 📂 Carpetas:
