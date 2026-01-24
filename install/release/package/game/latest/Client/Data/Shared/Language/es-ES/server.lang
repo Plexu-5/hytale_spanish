@@ -5419,8 +5419,8 @@ items.Prototype_Wood_Softwood_Fence_Platform.name = Prototipo - Madera blanda - 
 items.Prototype_Wood_Tropicalwood_Fence_Platform.name = Prototipo - Madera tropical - Plataforma de valla
 items.Rail_Kart.name = Carro ferroviario
 items.Rail.name = Ferrocarril
-items.Recipe_Book_Magic_Air.name = Agua Grimoire
-items.Recipe_Book_Magic_Void.name = Libro de hechizos nulo
+items.Recipe_Book_Magic_Air.name = Grimorio de magia aérea
+items.Recipe_Book_Magic_Void.name = Grimorio de magia del vacío
 items.Recipe_Page.name = Página de recetas
 items.Recipe_Plant_Seeds_Health1.name = Receta: Semilla de rosa sangrienta
 items.Recipe_Plant_Seeds_Health2.name = Receta: Semillas de seta Bloodcap
@@ -6308,6 +6308,11 @@ items.Weapon_Spellbook_Fire.name = Libro de hechizos de fuego
 items.Weapon_Spellbook_Frost.name = Libro de hechizos de hielo
 items.Weapon_Spellbook_Grimoire_Brown.name = Grimorio marrón
 items.Weapon_Spellbook_Grimoire_Purple.name = Grimorio Púrpura
+tems.Weapon_Spellbook_Rekindle_Embers.name = Grimorio: Reavivar brasas
+items.Weapon_Spellbook_Rekindle_Embers.description = Reanima esbirros esqueléticos de montones de huesos cercanos.\n\
+\n\• Solo aplica a los huesos de especies una vez vinculadas al fuego elemental.\n\
+• Los esbirros desaparecen cuando su invocador es perdido, o después de 5 minutos.\n\
+\n<color is="#ccaa00">Consume 1 grimorio por esbirro reanimado.</color>
 items.Weapon_Staff_Adamantite.name = Bastón de Adamantita
 items.Weapon_Staff_Bo_Bamboo.name = Bastón de bambú
 items.Weapon_Staff_Bo_Wood.name = Bastón de madera Bo
